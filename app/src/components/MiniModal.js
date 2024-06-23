@@ -36,19 +36,19 @@ const MiniModal = ({ header, content, position, onClose }) => {
           plugins: {
             legend: {
               labels: {
-                color: 'white' // Change the color here
+                color: 'white'
               }
             }
           },
           scales: {
             x: {
               ticks: {
-                color: 'white' // Change the color here
+                color: 'white'
               }
             },
             y: {
               ticks: {
-                color: 'white' // Change the color here
+                color: 'white'
               }
             }
           }
